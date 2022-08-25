@@ -1,0 +1,6 @@
+id=camera_as_system_app
+name=Cam as system app (FP4)
+version=1.0
+versionCode=1
+author=Smojo
+description=Installs a camera app as system app to enable some more functionality on an FP4 (to workaround some or all issues described in: https://forum.fairphone.com/t/camera-camera2-api-missing-features-bugs/83196).
